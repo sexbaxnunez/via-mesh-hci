@@ -1,0 +1,7 @@
+VÍA MESH — Proyecto académico (HCI for UX Design, UPC). ODS 11.
+Prototipo simulado en HTML y CSS: no hay red mesh, alertas ni almacenamiento real.
+Foto mochila.jpg: Unsplash, https://images.unsplash.com/photo-1553062407-98eeb64c6a62 (licencia: https://unsplash.com/license). Ilustrativa.
+Iconos Facebook, Instagram y YouTube: Simple Icons v15, https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md. Las marcas pertenecen a sus titulares.
+Favicon y mapa-evacuacion.svg: SVG originales para este proyecto (esquema ilustrativo).
+Video de referencia: UNESCO en español, Los Objetivos de Desarrollo Sostenible: qué son y cómo alcanzarlos. https://www.youtube.com/watch?v=MCKH5xk8X-g (se inserta desde YouTube, no se descarga).
+Los enlaces de redes llevan a páginas generales; reemplazar por las del proyecto.
