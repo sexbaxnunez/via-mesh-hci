@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="t d">
+<title id="t">Esquema de rutas de evacuación</title>
+<desc id="d">Esquema ilustrativo: la ruta principal junto a la quebrada está bloqueada y la ruta alterna sube hacia el punto seguro en la parte alta.</desc>
+<rect width="640" height="400" fill="#eaf1f4"/>
+<path d="M0 330 C140 300 220 360 360 320 S560 290 640 310 V400 H0Z" fill="#9cc7dc"/>
+<text x="24" y="378" font-family="Arial" font-size="16" fill="#0b3a50">Quebrada (zona de huayco)</text>
+<path d="M0 250 L200 210 L400 120 L640 60 V0 H0Z" fill="#cfe3d3"/>
+<text x="430" y="40" font-family="Arial" font-size="16" fill="#1b4d2e">Zona alta</text>
+<path d="M90 300 L260 270 L330 230" fill="none" stroke="#b3261e" stroke-width="7" stroke-dasharray="14 10"/>
+<text x="70" y="268" font-family="Arial" font-size="15" fill="#8c1d18">Ruta principal bloqueada</text>
+<path d="M130 290 L170 215 L300 175 L420 110 L520 80" fill="none" stroke="#1b6b3a" stroke-width="8"/>
+<path d="M505 70 L535 82 L505 94Z" fill="#1b6b3a"/>
+<text x="150" y="190" font-family="Arial" font-size="15" fill="#14532d">Ruta alterna</text>
+<g fill="#14212b"><rect x="100" y="285" width="22" height="18"/><rect x="140" y="280" width="22" height="18"/><rect x="230" y="262" width="22" height="18"/></g>
+<text x="60" y="320" font-family="Arial" font-size="14" fill="#14212b">Viviendas</text>
+<circle cx="540" cy="76" r="22" fill="#ffd166" stroke="#14212b" stroke-width="3"/>
+<text x="540" y="82" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold" fill="#14212b">P</text>
+<text x="470" y="125" font-family="Arial" font-size="15" fill="#14212b">Punto seguro</text>
+</svg>
